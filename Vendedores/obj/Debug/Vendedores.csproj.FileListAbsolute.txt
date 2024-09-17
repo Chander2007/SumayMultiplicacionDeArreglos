@@ -1,0 +1,10 @@
+C:\SumyMultArreglos\Vendedores\obj\Debug\Vendedores.csproj.AssemblyReference.cache
+C:\SumyMultArreglos\Vendedores\obj\Debug\Vendedores.Form1.resources
+C:\SumyMultArreglos\Vendedores\obj\Debug\Vendedores.Properties.Resources.resources
+C:\SumyMultArreglos\Vendedores\obj\Debug\Vendedores.csproj.GenerateResource.cache
+C:\SumyMultArreglos\Vendedores\obj\Debug\Vendedores.csproj.CoreCompileInputs.cache
+C:\SumyMultArreglos\Vendedores\bin\Debug\Vendedores.exe.config
+C:\SumyMultArreglos\Vendedores\bin\Debug\Vendedores.exe
+C:\SumyMultArreglos\Vendedores\bin\Debug\Vendedores.pdb
+C:\SumyMultArreglos\Vendedores\obj\Debug\Vendedores.exe
+C:\SumyMultArreglos\Vendedores\obj\Debug\Vendedores.pdb

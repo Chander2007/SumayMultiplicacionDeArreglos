@@ -1,0 +1,10 @@
+C:\SumyMultArreglos\reservaAerolinea\obj\Debug\reservaAerolinea.csproj.AssemblyReference.cache
+C:\SumyMultArreglos\reservaAerolinea\obj\Debug\reservaAerolinea.Form1.resources
+C:\SumyMultArreglos\reservaAerolinea\obj\Debug\reservaAerolinea.Properties.Resources.resources
+C:\SumyMultArreglos\reservaAerolinea\obj\Debug\reservaAerolinea.csproj.GenerateResource.cache
+C:\SumyMultArreglos\reservaAerolinea\obj\Debug\reservaAerolinea.csproj.CoreCompileInputs.cache
+C:\SumyMultArreglos\reservaAerolinea\bin\Debug\reservaAerolinea.exe.config
+C:\SumyMultArreglos\reservaAerolinea\bin\Debug\reservaAerolinea.exe
+C:\SumyMultArreglos\reservaAerolinea\bin\Debug\reservaAerolinea.pdb
+C:\SumyMultArreglos\reservaAerolinea\obj\Debug\reservaAerolinea.exe
+C:\SumyMultArreglos\reservaAerolinea\obj\Debug\reservaAerolinea.pdb

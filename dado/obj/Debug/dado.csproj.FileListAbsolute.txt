@@ -1,0 +1,10 @@
+C:\SumyMultArreglos\dado\obj\Debug\dado.csproj.AssemblyReference.cache
+C:\SumyMultArreglos\dado\obj\Debug\dado.Form1.resources
+C:\SumyMultArreglos\dado\obj\Debug\dado.Properties.Resources.resources
+C:\SumyMultArreglos\dado\obj\Debug\dado.csproj.GenerateResource.cache
+C:\SumyMultArreglos\dado\obj\Debug\dado.csproj.CoreCompileInputs.cache
+C:\SumyMultArreglos\dado\bin\Debug\dado.exe.config
+C:\SumyMultArreglos\dado\bin\Debug\dado.exe
+C:\SumyMultArreglos\dado\bin\Debug\dado.pdb
+C:\SumyMultArreglos\dado\obj\Debug\dado.exe
+C:\SumyMultArreglos\dado\obj\Debug\dado.pdb

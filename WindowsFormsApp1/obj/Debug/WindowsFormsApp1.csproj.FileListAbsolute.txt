@@ -1,0 +1,10 @@
+C:\SumyMultArreglos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\SumyMultArreglos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\SumyMultArreglos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\SumyMultArreglos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\SumyMultArreglos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\SumyMultArreglos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\SumyMultArreglos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\SumyMultArreglos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\SumyMultArreglos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\SumyMultArreglos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
